@@ -108,7 +108,7 @@ class App(customtkinter.CTk):
             self.file_title = customtkinter.CTkLabel(master=self.list_area,text=file)
             self.file_title.grid(row=i, column=0)
             i += 1
-        
+
 
 # 运行程序
 if __name__ == "__main__":

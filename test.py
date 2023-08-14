@@ -29,6 +29,8 @@ def print_file(file_path):
 
 
 # 调用打印方法
-file_to_print = "C:\\Users\\付坤\\Desktop\\123\\有数据\\5-检验批-有数据.xlsx"
+# file_to_print = "C:\\Users\\付坤\\Desktop\\123\\有数据\\5-检验批-有数据.xlsx"
+#
+# print_file(file_to_print)
 
-print_file(file_to_print)
+print(get_prints())
